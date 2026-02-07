@@ -55,4 +55,33 @@ Econometric models used:
 ---
 
 ## 📂 Repository Structure
+Paper/ → Final research paper (PDF)
+R_Code/ → Panel regression and analysis code
+Data/ → NCRB dataset used for analysis
+Figures/ → Regression plots and visual outputs
+
+
+---
+
+## 🛠 Skills Demonstrated
+
+- Panel Data Econometrics  
+- Data Cleaning & Transformation  
+- Statistical Modelling in R  
+- Policy Interpretation  
+- Academic Research Writing  
+
+---
+
+## 👩‍🎓 Author
+
+**Anushka Das**  
+M.A. Economics — Fergusson College, Pune  
+Aspiring Data & Policy Analyst
+
+---
+
+## 🤝 Connect
+
+If you find this work interesting, feel free to connect with me on LinkedIn.
 
