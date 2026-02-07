@@ -1,0 +1,79 @@
+# Crimes Against Children in India (2001–2012)
+## Panel Data Analysis of State-Level Trends
+
+This repository contains my empirical research project analysing trends in reported crimes against children across 38 Indian states and union territories using panel data econometrics.
+
+This project was completed as part of my M.A. Economics coursework at Fergusson College, Pune.
+
+---
+
+## 📌 Research Objective
+
+The study investigates how reported crimes against children evolved between 2001 and 2012 and whether the observed increase reflects rising victimisation or improvements in crime reporting and legal awareness.
+
+The research uses panel data techniques to separate:
+• Cross-state differences  
+• Within-state time trends  
+
+---
+
+## 📊 Dataset
+
+Source: **National Crime Records Bureau (NCRB) – Crime in India Reports**
+
+Coverage:
+- 38 States & Union Territories  
+- Time period: 2001–2012  
+- Balanced panel: 456 state-year observations  
+
+Crime categories aggregated into:
+**Total Crimes Against Children**
+
+---
+
+## 🧠 Methodology
+
+The study applies econometric panel data models:
+
+• Pooled OLS  
+• Fixed Effects Model  
+• Random Effects Model  
+• Hausman Test  
+• Robust Standard Errors  
+• Robustness Checks  
+
+Software used:
+- R (plm package)
+
+---
+
+## 📈 Key Findings
+
+• Reported crimes increased by ~590% between 2001–2012  
+• Fixed effects improved model fit significantly (R²: 0.05 → 0.43)  
+• 92% of variation in crime counts is explained by state-level heterogeneity  
+• Evidence suggests the increase reflects **improved reporting infrastructure and legal reforms**, rather than proportional increases in victimisation.
+
+---
+## 🛠 Tools & Skills Demonstrated
+
+Econometrics  
+Panel Data Analysis  
+Data Cleaning & Transformation  
+Statistical Modelling in R  
+Policy Interpretation & Research Writing  
+
+---
+
+## 👩‍🎓 Author
+
+**Anushka Das**  
+M.A. Economics — Fergusson College, Pune  
+Aspiring Data & Policy Analyst
+
+---
+
+## 📬 Contact
+
+Feel free to connect on LinkedIn for discussion or collaboration.
+
